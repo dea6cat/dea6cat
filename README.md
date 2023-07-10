@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dea6cat
-- 👀 I’m interested in Ai, tools and reasearch 
+- 👀 I’m interested in Ai, tools and research 
 - 🌱 I’m currently learning database analysis 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me notalexander24@gmail.com
 
 <!---
